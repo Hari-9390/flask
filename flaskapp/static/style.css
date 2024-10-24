@@ -1,0 +1,10 @@
+/* static/style.css */
+body {
+    font-family: Arial,sans-serif;
+    background-color: #dd4747;
+    text-align:center;
+    padding:50px;
+}
+h1 {
+    color:#333;
+}
